@@ -1,0 +1,2 @@
+ninja: Entering directory `G:\Users\Ksenia\FirstStep\FirstStep\app\.cxx\Debug\5t5w3m5y\x86'
+ninja: no work to do.

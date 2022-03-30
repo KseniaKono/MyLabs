@@ -1,0 +1,8 @@
+# ninja log v5
+0	753	667688350	CMakeFiles/firststep.dir/native-lib.cpp.o	a92aefba1b27f586
+754	1508	667688351	C:/Users/andre/AndroidStudioProjects/FirstStep/FirstStep/app/build/intermediates/cxx/Debug/314c6j58/obj/armeabi-v7a/libfirststep.so	4b4a589d0b7544f7
+2	170	668477504	build.ninja	f275916db1a6c643
+0	7	0	clean	d85e5c490eeffc97
+0	10	0	clean	d85e5c490eeffc97
+0	10	0	clean	d85e5c490eeffc97
+0	10	0	clean	d85e5c490eeffc97

@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\andre\AndroidStudioProjects\FirstStep\FirstStep\app\.cxx\Debug\314c6j58\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/firststep.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library C:\Users\andre\AndroidStudioProjects\FirstStep\FirstStep\app\build\intermediates\cxx\Debug\314c6j58\obj\arm64-v8a\libfirststep.so

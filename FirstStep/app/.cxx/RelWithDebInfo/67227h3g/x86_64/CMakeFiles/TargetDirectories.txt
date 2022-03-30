@@ -1,0 +1,3 @@
+G:/Users/Ksenia/FirstStep/FirstStep/app/.cxx/RelWithDebInfo/67227h3g/x86_64/CMakeFiles/firststep.dir
+G:/Users/Ksenia/FirstStep/FirstStep/app/.cxx/RelWithDebInfo/67227h3g/x86_64/CMakeFiles/edit_cache.dir
+G:/Users/Ksenia/FirstStep/FirstStep/app/.cxx/RelWithDebInfo/67227h3g/x86_64/CMakeFiles/rebuild_cache.dir

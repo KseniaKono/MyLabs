@@ -1,0 +1,7 @@
+ninja: Entering directory `C:\Users\andre\AndroidStudioProjects\FirstStep\FirstStep\app\.cxx\Debug\314c6j58\x86_64'
+[1/2] Building CXX object CMakeFiles/firststep.dir/native-lib.cpp.o
+C:/Users/andre/AndroidStudioProjects/FirstStep/FirstStep/app/src/main/cpp/native-lib.cpp:13:25: warning: ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+char *personalization = "frst-step-sample-app";
+                        ^
+1 warning generated.
+[2/2] Linking CXX shared library C:\Users\andre\AndroidStudioProjects\FirstStep\FirstStep\app\build\intermediates\cxx\Debug\314c6j58\obj\x86_64\libfirststep.so

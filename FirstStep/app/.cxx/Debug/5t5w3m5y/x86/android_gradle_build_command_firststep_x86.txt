@@ -1,0 +1,7 @@
+Executable : G:\Users\Ksenia\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+G:\Users\Ksenia\FirstStep\FirstStep\app\.cxx\Debug\5t5w3m5y\x86
+firststep
+jvmArgs : 
+
